@@ -1,0 +1,33 @@
+.Signupform{
+    width: 100vw;
+    height: 100vh;
+    background-color:aliceblue
+}
+.Signupdata{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 450px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+     margin:9% 10% 10% 30%;
+     border-radius: 15px;
+
+}
+.Signupdata input{
+    width: 70%;
+    margin: 10px 10px 20px 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+.Signupdata button{
+    width: 150px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: blue;
+
+}
